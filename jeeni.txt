@@ -1,0 +1,6 @@
+Test/Exam name: Aptitude_test_12Aug24
+Test/Exam time period: 30 minutes 
+Total questions: 25
+Login period for test: 12Aug (Mon) --> 11AM to 12:30PM
+Test type:  Aptitude  (MCQs)
+Exam/Test URL: https://exam.jeeni.in/Jeeni
